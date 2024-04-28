@@ -8,4 +8,4 @@ HTML5 CSS3
 
 <h2>GIF</h2>
 
-!<[](ekran.gif)
+![](ekran.gif)
